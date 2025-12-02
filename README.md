@@ -4,7 +4,7 @@ Visualisation of Balance Sheet FY2025 and 5 years Cash Flow Statement of NTPC
 
 -Tanvi Kesarwani
 -Shikhar Agrawal
--Sujail Ahmed Ansari
+-Sujail Ahamad Ansari
 -Jaanvi Jaiswal
 -Swayam Keshari
 -Fiza
